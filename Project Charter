@@ -1,0 +1,26 @@
+6. Montani Style Distributed Order Management
+Industry: Retail & E-Commerce
+Business Pain Point: Montani Style operates 45 brick-and-mortar retail stores alongside
+an e-commerce platform. Because online orders and physical store inventory run on
+disconnected legacy systems, the company suffers frequent stockouts, high split-
+shipment fulfillment costs, and elevated return processing expenses. Store managers
+cannot fulfill online orders from local shelf stock due to real-time inventory inaccuracies.
+Proposed Solution: Develop a Distributed Order Management System (DOMS) that
+unifies online and offline inventory streams into a single source of truth. The platform will
+route online orders to the optimal fulfillment location (warehouses vs. nearby retail stores),
+enable "Buy Online, Pick Up In-Store" (BOPIS) workflows, and provide store associates with
+mobile inventory auditing and return processing interfaces
+
+
+Project Overview: Montani Style is a national apparel retailer operating 45 brick-and-mortar stores alongside a growing e-commerce platform. Today, online and in-store inventory run on disconnected legacy systems. This causes frequent stockouts, expensive split shipments, and inflated return-processing costs, and prevents store associates from fulfilling online orders out of local shelf stock, because on-hand inventory data is unreliable in real time. 
+
+Project Scope and Objectives: Our project goal is to try to create a system that allows us to sort and track inventory autonomously, reducing the errors that keep occurring for Montani Style. Inventory management is one of the biggest challenges, so we will need to build a mobile interface for store associates to track stock more easily and reduce frequent stockouts and system disconnects. The biggest 
+
+Budget Objectives: Our estimated budget for our DOMS application is around $750,000- $1 million. We expect the main bulk of the price (around 250,000) to come from the software development and creating the actual code and data to run a smooth application. Another major cost will be implementing this new system across all 45 stores, which will require significant installation costs, plus training and ensuring employees can use it. Our biggest remaining expense will be testing and running the project during the construction phase. This will account for around another $200,000 in order to have the best possible performance. 
+
+Milestones: 9/21- Project Deliverable #1, 10/2- Project Deliverable #2, 10/8- Project Deliverable #3, 10/19- Project Deliverable #4, 10/26- Project Deliverable #5, 11/9- Project Deliverable #6, 12/4- Final Project Deliverable.
+
+Team Roles & Governance:
+Project Manager: Sophia Shaw
+Lead Business Analyst: Noah Witzleb
+Systems Architect: Kenley Elmore
