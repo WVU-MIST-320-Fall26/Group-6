@@ -1,8 +1,9 @@
-#Project Overview: Montani Style is a national apparel retailer operating 45 brick-and-mortar stores alongside a growing e-commerce platform. Today, 
+## Project Overview: 
+Montani Style is a national apparel retailer operating 45 brick-and-mortar stores alongside a growing e-commerce platform. Today, 
 online and in-store inventory run on disconnected legacy systems. This causes frequent stockouts, expensive split shipments, and inflated return-processing costs, 
 and prevents store associates from fulfilling online orders out of local shelf stock, because on-hand inventory data is unreliable in real time. 
 
-###Project Scope and Objectives: Our project goal is to try to create a system that allows us to sort and track inventory autonomously, 
+### Project Scope and Objectives: Our project goal is to try to create a system that allows us to sort and track inventory autonomously, 
 reducing the errors that keep occurring for Montani Style. Inventory management is one of the biggest challenges, 
 so we will need to build a mobile interface for store associates to track stock more easily and reduce frequent stockouts and system disconnects. The biggest 
 
