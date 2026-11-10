@@ -33,4 +33,14 @@ Earned Value Management (EVM)
       - CPI = 1.22
 
 - Spring 3 Forecast
-  - Estimate at Completion (EAC) 
+  - Estimate at Completion (EAC) Estimates the total project cost if the current cost performance continues
+   - EAC = BAC / CPI
+   - EAC = BAC / 1.2245
+      - EAC = $612,244.90-$816,326.53
+  - ETC ( Estimate to Complete) Estimates the additional cost needed to complete the remaining project work.
+    - ETC = EAC - AC
+    - ETC = $612,244.09-$816,326.53 - $500,000-$666,666.67
+      - ETC = $112,244.90-$149,659.86
+
+Overall Performance Summary
+ - Overall, the project is performing well through the end of Spring 2. The teams velocity increased from 29 story points in Sprint 1 to 51 story points in Sprint 2. Out of 98 estimated story points, the team has completed 80, leaving 18 left for the final sprint. The EVM results show a favorable performance. An SPI of 1.22 shows that the project is ahead of schedule, and a CPI of 1.22 shows favorable cost performance based on assumed budget. Moving into Sprint 3, the main focus should be on completing the remaining work and preparing the final project deliverables. 
